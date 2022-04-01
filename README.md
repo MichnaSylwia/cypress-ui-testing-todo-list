@@ -7,4 +7,4 @@ https://peselvalidatorapitest.azurewebsites.net/#/Home
 https://docs.cypress.io/guides/getting-started/installing-cypress
 
 ### Running tests
-npm run cypress:run
+>npm run cypress:run
